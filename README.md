@@ -1,4 +1,5 @@
 # JOBS WISHLIST
+
 ## -Vinay Kumar Dahiya
 
 ## Introduction
@@ -11,20 +12,25 @@ The end user being job aspirant like college students or freshers, even can be u
 
 ## Features
 
-    • create profile
-    • fill out preferences from a provied list of companies and job profiles
-    • search view and connect to other users
-    • intelligent waiting, recieve suggestion for similar companies, jobs, users
+- create profile
+- fill out preferences from a provied list of companies and job profiles
+- get notified once the opening is made
+- keep track of applied jobs  
+
 
 ## Market Survey
 
-LinkedIn(https://www.linkedin.com/), indeed(https://www.indeed.co.in/) and other common job rooms share similar ideas.
+[LinkedIn](https://www.linkedin.com/), [Indeed](https://www.indeed.co.in/) and other common job rooms share similar ideas.
 But whatif a company decided not to post the job only a certain platform, say Indeed, or Monster.com etc and you are not registered on there?
-How is this Website different? 
+How is this Website different?
 We let the user create a wishlist for job-company and then use background runners to directly scan the provided company website's carrer pages at regular intervals and then match each user with the company and job profile.
 
+Link to [Wireframe](https://miro.com/app/board/o9J_kos1ItE=/)  
+Link to [Prototype](https://vinaykumardahiya986147.invisionapp.com/overview/Jobs-Wishlist-ckczzc5c509cj019e4gd61kat/screens)
 
-Link to Wireframe: https://miro.com/app/board/o9J_kos1ItE=/  
-Link to Prototype: https://vinaykumardahiya986147.invisionapp.com/overview/Jobs-Wishlist-ckczzc5c509cj019e4gd61kat/screens
+<hr>
 
+## The source code for application is published on Github here.
 
+- [Frontend app in React](https://github.com/winay05/jobs-frontend)
+- [Backend app which exposes API to fetch data from DB](https://github.com/winay05/jobs-backend)
