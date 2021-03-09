@@ -30,7 +30,4 @@ Link to [Prototype](https://vinaykumardahiya986147.invisionapp.com/overview/Jobs
 
 <hr>
 
-## The source code for application is published on Github here.
-
-- [Frontend app in React](https://github.com/winay05/jobs-frontend)
-- [Backend app which exposes API to fetch data from DB](https://github.com/winay05/jobs-backend)
+## The source code for application is published on Github [here](https://github.com/winay05/JobsWishlist_app).
